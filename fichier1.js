@@ -1,2 +1,2 @@
-let a = 'Blablabla'
+let a = 'Blablabla    nimportequoi pfffff'
 console.log(a)
